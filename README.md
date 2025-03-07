@@ -23,7 +23,7 @@ Here are my two repositories.
 
 This is a webpage tool to count cash and finish calculating the turnover in a small retail shop. I made it for a shop I once worked for.
 
-### [Shon's Site](https://shon.li/readme.html)
+### [晓航的网站 Shon's Site](https://shon.li/readme.html)
 
 This is the readme page of my website/blog. I posted some words and photos there. You will see both Chinese Mandarin and English on the page. I want to make it bilingual-friendly. Sorry if it looks too exotic to you.
 I am proud to have built it from scratch using Jekyll. I like the simple and boring look I created. :)
