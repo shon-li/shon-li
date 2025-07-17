@@ -19,12 +19,11 @@ My name is Shon Li. I am a third-year electrical and electronic engineering stud
 
 Here are my two repositories.
 
+### [晓航的博客 Shon's Blog](https://shon.li/)
+
+I posted some words and photos there. You will see both Chinese Mandarin and English on the page.
+
+
 ### [Cash Calculator](https://shon.li/cc)
 
-This is a webpage tool to count cash and finish calculating the turnover in a small retail shop. I made it for a shop I once worked for.
-
-### [晓航的网站 Shon's Site](https://shon.li/readme.html)
-
-This is the readme page of my website/blog. I posted some words and photos there. You will see both Chinese Mandarin and English on the page. I want to make it bilingual-friendly. Sorry if it looks too exotic to you.
-I am proud to have built it from scratch using Jekyll. I like the simple and boring look I created. :)
-
+This is a webpage tool to count cash and finish calculating the turnover in a small retail shop.
