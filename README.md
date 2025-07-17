@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 👋 Nice to see you!
 
-My name is Shon Li. I am a third-year electrical and electronic engineering student at The Univerisity of Auckland. I like writing code and making nice things. My email is `hi@shon.li`.
+My name is Shon Li. I am an engineering student at The Univerisity of Auckland. I like writing code and making nice things. My email is `hi@shon.li`.
 
 Here are my two repositories.
 
